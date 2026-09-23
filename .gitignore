@@ -73,3 +73,8 @@ VideoCaptureLib_Log.txt
 
 .fake
 .fake
+Logs/
+*.blend1
+*.blend2
+*~
+k
