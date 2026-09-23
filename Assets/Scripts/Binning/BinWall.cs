@@ -7,10 +7,10 @@ public class BinWall : MonoBehaviour {
 
     public GameObject parent { get; private set; } = null;
 
-    [SerializeField]
+    //[SerializeField]
     public string owner { get; private set; }
 
-    [SerializeField]
+    //[SerializeField]
     public int group { get; private set; }
 
     private List<Bin> binList = new List<Bin>();
